@@ -1,4 +1,4 @@
-# C-projects
+# C - tic tac toe Game
 
 I created a tic tac toe game with C, that allows two players to play against each other.
 Allowing the player to choose the grid size up to 50 x 50. 
